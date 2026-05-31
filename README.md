@@ -38,15 +38,6 @@ A fully-featured chess engine in C++ designed with **UML before a single line of
 Structured security research on a custom social media protocol — mapped the attack surface, achieved unauthorized account access, and executed successful **XSS attacks**. Built for the Magshimim cyber education program.
 `Python` `XSS` `Penetration Testing` `Network Security`
 
----
-
-## 📊 Stats
-
-![Yoav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoavlach&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoavlach&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🏆 Highlights
 
 - 🥇 **1st Place** — Wix Entrepreneurship & Product Design Competition, Be'er Sheva
